@@ -279,3 +279,5 @@ This project is licensed under the LGPL 3.0 License - see the [LICENSE](LICENSE)
 [⭐ Star us on GitHub](https://github.com/selobu/code-assistant) • [📚 Read the Docs](https://selobu.github.io/code-assistant/) • [🐛 Report Issues](https://github.com/selobu/code-assistant/issues)
 
 </div>
+
+Latest version 0.2.4
