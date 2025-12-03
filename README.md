@@ -77,7 +77,6 @@ export DEEPSEEK_API_KEY="sk-your-api-key-here"
 code-assistant
 
 # Example usage
-You> /add main.py
 You> Explain what this code does and suggest improvements
 You> Create a user authentication module
 You> Add tests for the new feature
@@ -135,8 +134,7 @@ Comprehensive documentation is available at: **[https://selobu.github.io/code-as
 
 ```bash
 # Analyze existing code
-You> /add src/main.py
-You> What improvements can we make to this code?
+You> What improvements can we make to src/main.py code?
 You> How can we optimize performance?
 ```
 
