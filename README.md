@@ -278,4 +278,4 @@ This project is licensed under the LGPL 3.0 License - see the [LICENSE](LICENSE)
 
 </div>
 
-Latest version 0.2.4
+Latest version 0.2.6
