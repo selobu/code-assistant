@@ -6,7 +6,7 @@
 ![Code Assistant](https://img.shields.io/badge/Code-Assistant-blue)
 ![Python](https://img.shields.io/badge/Python-3.11+-green)
 ![License](https://img.shields.io/badge/License-LGPL%203.0-lightgrey)
-![Version](https://img.shields.io/badge/Version-0.2.4-orange)
+![Version](https://img.shields.io/badge/Version-0.2.7-orange)
 
 **An AI-powered coding assistant with DeepSeek integration and advanced function calling capabilities**
 
@@ -237,7 +237,7 @@ flake8 .
 
 ## 📊 Project Status
 
-- **Version**: 0.2.4
+- **Version**: 0.2.7
 - **Status**: Active development
 - **Python Support**: 3.11+
 - **License**: LGPL 3.0
